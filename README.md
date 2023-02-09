@@ -7,5 +7,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddy-lch&show_icons=true&theme=dark&locale=en&layout=compact" alt="teddy-lch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddy-lch&show_icons=true&theme=dark&locale=en" alt="teddy-lch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddy-lch&theme=dark" alt="teddy-lch" /></p>
